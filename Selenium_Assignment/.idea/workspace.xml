@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f54080ff-1af9-46c1-9940-029e2ae564b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cucumberDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/main/java/com/api/testing/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/APITestExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/AssertStatusCodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/DeleteRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/ExtractEmailAndPostExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/MessagePresenceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/PatchRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/PostRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/PutRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/VerifyFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/com/api/testing/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UFT Assignment Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../UFT Assignment Questions.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2yrLF0K7YFfvyPVJjZs68r1w4aX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LaunchDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shatakshi Garg/OneDrive/Documents/GeminiSolutions/Training_Assessments/Selenium_Assignment/src&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Shatakshi Garg/OneDrive/Documents/GeminiSolutions/Training_Assessments/Selenium_Assignment/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shatakshi Garg\OneDrive\Documents\GeminiSolutions\Training_Assessments\Selenium_Assignment\src" />
+      <recent name="C:\Users\Shatakshi Garg\OneDrive\Documents\GeminiSolutions\Training_Assessments\Selenium_Assignment" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.api.testing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LaunchDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaunchDropdown" />
+      <module name="Selenium_Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LaunchDropdown" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f54080ff-1af9-46c1-9940-029e2ae564b2" name="Changes" comment="" />
+      <created>1750587642221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750587642221</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a890c59-7c74-427a-95f6-27bf7e2e5ab3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runners/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/LoginStepDefinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/main/java/com/api/testing/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/APITestExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/AssertStatusCodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/DeleteRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/ExtractEmailAndPostExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/MessagePresenceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/PatchRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/PostRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/PutRequestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/VerifyFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured-demo/src/test/java/com/api/testing/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UFT Assignment Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../UFT Assignment Questions.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ytw68kugink0Q3x9iRubZytaSW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestRunner.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Shatakshi Garg/OneDrive/Documents/GeminiSolutions/Training_Assessments/cucumberDemo/src/main/java/com/api/testing/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumberDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a890c59-7c74-427a-95f6-27bf7e2e5ab3" name="Changes" comment="" />
+      <created>1750667002682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750667002682</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/api/testing/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

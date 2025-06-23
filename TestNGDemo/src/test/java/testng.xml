@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MyTestSuite">
+
+    <test name="LoginTests">
+        <classes>
+            <class name="tests.LoginTests" />
+        </classes>
+    </test>
+
+    <test name="PaymentTests">
+        <classes>
+            <class name="tests.PaymentTests" />
+        </classes>
+    </test>
+
+</suite>
